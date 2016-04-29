@@ -1,4 +1,6 @@
-# Site do Grupo 33 - Cristo Rei (Porto) #
+# Grupo 33 - Cristo Rei (Porto) #
 
-Este repositório contém o site do Grupo 33 de Cristo Rei (Porto), da Associação dos Escoteiros de Portugal.
+This repository hosts the code for the **Grupo 33 - Cristo Rei** website - [http://www.grupo33.net](http://www.grupo33.net/)
+
+Built with Jekyll - [http://www.jekyllrb.com](http://www.jekyllrb.com)
 
