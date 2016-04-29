@@ -1,0 +1,108 @@
+<div class="section scrollspy" id="divisoes">
+  <div class="container">
+    <h2 class="header center">Divisões </h2>
+    <div class="row">
+  
+      <!-- Alcateia -->
+      <div id="alcateia-button" class="col s12 m6 l3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator img-responsive img-divisao" src="img/alcateia.gif">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Dos 07 aos 10 anos</span>
+          </div>
+        </div>
+      </div>
+
+      <div id="alcateia">
+        <div class="row">
+          <div class="col s12 m12 l12">
+            <div class="card-panel white">
+
+              {% capture alcateia %}{% include sections/divisoes/alcateia.md %}{% endcapture %}
+              {{ alcateia | markdownify }}
+
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Tribo de Escoteiros -->
+      <div id="tes-button" class="col s12 m6 l3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator img-responsive img-divisao" src="img/tes.gif">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Dos 11 aos 14 anos</span>
+          </div>
+        </div>
+      </div>
+
+      <div id="tes">
+        <div class="row">
+          <div class="col s12 m12 l12">
+            <div class="card-panel white">
+
+              {% capture tes %}{% include sections/divisoes/tes.md %}{% endcapture %}
+              {{ tes | markdownify }}
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tribo de Exploradores -->
+      <div id="tex-button" class="col s12 m6 l3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator img-responsive img-divisao" src="img/tex.gif">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Dos 14 aos 17 anos</span>
+          </div>
+        </div>
+      </div>
+
+      <div id="tex">
+        <div class="row">
+          <div class="col s12 m12 l12">
+            <div class="card-panel white">
+
+              {% capture tex %}{% include sections/divisoes/tex.md %}{% endcapture %}
+              {{ tex | markdownify }}
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Clã -->
+      <div id="cla-button" class="col s12 m6 l3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator img-responsive img-divisao" src="img/cla.gif">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Dos 17 aos 21 anos</span>
+          </div>
+        </div>
+      </div>
+
+      <div id="cla">
+        <div class="row">
+          <div class="col s12 m12 l12">
+            <div class="card-panel white">
+
+              {% capture cla %}{% include sections/divisoes/cla.md %}{% endcapture %}
+              {{ cla | markdownify }}
+
+            </div>
+          </div>
+        </div>
+      </div>
+    
+    </div>       
+  </div>
+</div>

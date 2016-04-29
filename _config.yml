@@ -1,0 +1,11 @@
+# Site settings
+title: Escoteiros Grupo 33 - Cristo Rei
+email: grupo33@escoteiros.pt
+description: > # this means to ignore newlines until "baseurl:"
+  Site do Grupo 33 de Cristo Rei.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.grupo33.net" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+exclude: [package.json]

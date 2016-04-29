@@ -1,0 +1,13 @@
+{
+  "name": "grupo33",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parallelshell 'npm run imagemin' 'npm run minify-js && npm run minify-css' 'npm run server' 'npm run jekyll'",
+    "imagemin": "imagemin _img/ img/ -p",
+    "jekyll": "jekyll build --watch",
+    "server": "cd _site && lite-server",
+    "minify-js": "minify js/init.js && minify js/script.js && minify js/materialize.js",
+    "minify-css": "minify css/style.css && minify css/materialize.css",
+    "concat-js": "cat js/init.min.js js/script.min.js > js/scripts.min.js"
+  }
+}
