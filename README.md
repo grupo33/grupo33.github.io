@@ -6,7 +6,13 @@ Built with Jekyll - [https://jekyllrb.com](https://jekyllrb.com)
 
 ## Development Setup
 
-To develop the website check that you have Node and NPM installed on your system and do the following to install.
+This site is a static site developed with Jekyll, a Ruby based static site generator. Make sure you have Ruby installed on your system and run the following to install Jekyll.
+
+```bash
+gem install jekyll
+```
+
+To develop the website check that you have Node and NPM installed on your system and do the following to install all the development dependencies.
 
 ```bash
 npm install
