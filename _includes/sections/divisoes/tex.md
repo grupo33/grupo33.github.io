@@ -2,7 +2,7 @@
 
 **Bem vindo à Tribo de Exploradores**
 
-A Tribo de Exploradores organiza-se através de Patrulhas com 4 a 8 elementos, com jovens entre os 14 e os 17 anos. 
+A Tribo de Exploradores organiza-se através de Patrulhas com 4 a 8 elementos, com jovens entre os 13 e os 16 anos. 
 
 Na Tribo de Exploradores vais poder desenvolver actividades que te dão gozo, realizar projectos arrojados e outros que podem fazer a diferença na comunidade, para além de te divertires e fazeres amizades que poderão ficar para toda a vida.
 

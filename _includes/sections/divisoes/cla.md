@@ -1,7 +1,7 @@
 
 #### O Clã e o seu funcionamento ####
 
-O Clã é a Divisão dos Caminheiros, que são jovens entre os 17 e os 21 anos. O foco desta Divisão é o indivíduo, que se organiza em Equipas temporárias.
+O Clã é a Divisão dos Caminheiros, que são jovens entre os 16 e os 21 anos. O foco desta Divisão é o indivíduo, que se organiza em Equipas temporárias.
   
 ##### Conselho de Clã #####
 

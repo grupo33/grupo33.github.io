@@ -2,7 +2,7 @@
 
 **Bem vindo à Tribo de Escoteiros!**
 
-Esta Divisão é constituída por jovens dos 11 aos 14 anos, que se dividem em Patrulhas que têm de 4 a 8 elementos.
+Esta Divisão é constituída por jovens dos 10 aos 13 anos, que se dividem em Patrulhas que têm de 4 a 8 elementos.
 
 Ao entrares na Tribo passaste também a fazer parte de uma Patrulha, com mais alguns Escoteiros que, daqui a algum tempo vais certamente onsiderar como teus amigos, porque juntos vão partilhar as tarefas e responsabilidades da Patrulha, vão viver aventuras cheias de emoções e desafios e, acima de tudo, porque todos vão querer que a vossa Patrulha seja a melhor do mundo.
 
