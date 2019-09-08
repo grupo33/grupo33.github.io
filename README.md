@@ -1,6 +1,6 @@
 # Grupo 33 - Cristo Rei (Porto) #
 
-This repository hosts the code for the **Grupo 33 - Cristo Rei** website - [https://www.grupo33.net](https://www.grupo33.net)
+This repository hosts the code for the **Grupo 33 - Cristo Rei** website - [https://www.grupo33.pt](https://www.grupo33.pt)
 
 Built with Jekyll - [https://jekyllrb.com](https://jekyllrb.com)
 
